@@ -20,7 +20,7 @@ Comandos
 
 - Git push -u origin master
 
-- 
+- Git pull
 
 
 Obs: Por ja ter colocado nome e email durante as atividades do material digital os comandos não foram listados.
